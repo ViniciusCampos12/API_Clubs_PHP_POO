@@ -2,7 +2,7 @@
     "name": "vinicius/api",
     "autoload": {
         "psr-4": {
-            "App\\": "app/"
+            "App\\":"app/"
         }
     }
 }
