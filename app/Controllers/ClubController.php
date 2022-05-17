@@ -4,8 +4,6 @@ namespace App\Controllers;
 
 use App\Models\Club;
 
-use function App\Helpers\response;
-
 class ClubController extends Controller
 {
     /**
